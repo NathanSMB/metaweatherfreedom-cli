@@ -1,7 +1,7 @@
 {
-  "name": "metaweather-cli",
+  "name": "metaweatherfreedom-cli",
   "version": "0.1.2",
-  "description": "Command Line Interface for MetaWeather",
+  "description": "Command Line Interface for MetaWeather. Now in freedom units!",
   "keywords": [
     "cli",
     "command-line",
@@ -12,15 +12,15 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Ismael González Trujillo",
-    "email": "ismael.gonzaleztrujillo@gmail.com"
+    "name": "Nathanael Burchill",
+    "email": "nathan@burchill.io"
   },
   "bin": {
     "weather": "cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ismaelgt/metaweather-cli.git"
+    "url": "https://github.com/NathanSMB/metaweatherfreedom-cli"
   },
   "scripts": {
     "test": "eslint . && ava"
